@@ -1,9 +1,8 @@
 ## Olá, eu sou a Shirley Brito 👋
 
 
-- 🔭 Desenvolvedora Web
-- 👩‍🎓 Estudante do 6° período de Tecnologia da Informação (UNIVESP)
-- 🌱 Estudando JAVA
+- 🔭 Desenvolvedora Front-end Jr
+- 👩‍🎓 Bacharela em Tecnologia da Informação (UNIVESP)
 - 📫 Contate-me no email: shirley.omb4@gmail.com
 - 😄 Pronomes: ela/dela
 
