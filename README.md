@@ -1,7 +1,7 @@
 ## Olá, eu sou a Shirley Brito 👋
 
 ## 🚀 Atualmente
-
+<br>
 
 - 👩🏽‍🎓 Bacharela em Tecnologia da Informação pela UNIVESP
 - 📚 Estudando Marketing Digital e Social Media
@@ -25,6 +25,7 @@
   <img align="center" alt="Shirley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Shirley-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
 </div>
+<br>
   
 <div> 
   <a href="https://www.instagram.com/shirleybrito.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
