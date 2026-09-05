@@ -2,6 +2,7 @@
 
 ## 🚀 Atualmente
 
+- 👩🏽‍🎓 Bacharela em Tecnologia da Informação pela UNIVESP
 - 📚 Estudando Marketing Digital e Social Media
 - 💻 Desenvolvendo projetos em tecnologia
 - 📈 Explorando estratégias de marketing e conteúdo
