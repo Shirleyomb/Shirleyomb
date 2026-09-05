@@ -1,13 +1,16 @@
 ## Olá, eu sou a Shirley Brito 👋
 
+## 🚀 Atualmente
 
-- 🔭 Desenvolvedora Front-end Jr
-- 👩‍🎓 Bacharela em Tecnologia da Informação (UNIVESP)
-- 📫 Contate-me no email: shirley.omb4@gmail.com
-- 😄 Pronomes: ela/dela
+- 📚 Estudando Marketing Digital e Social Media
+- 💻 Desenvolvendo projetos em tecnologia
+- 📈 Explorando estratégias de marketing e conteúdo
+- 🛍️ Desenvolvendo e testando ideias para a REOKI
+- 🚀 Construindo projetos através da ARS Tech
+- 🧪 Transformando aprendizados em experimentos e projetos reais
 
 <div align="center">
-  <a href="https://www.instagram.com/shirleybrito.dev/">
+  <a href="https://www.instagram.com/studyarchive.shirley/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shirleyomb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirleyomb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
