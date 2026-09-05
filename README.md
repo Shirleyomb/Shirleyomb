@@ -10,7 +10,7 @@
 - 🧪 Transformando aprendizados em experimentos e projetos reais
 
 <div align="center">
-  <<img align="center" alt="Shirley-pic" height="300" style="border-radius:50px;" src="https://octodex.github.com/images/femalecodertocat.png">
+  <a href="https://www.arstechcompany.com.br/" target="blank"><img align="center" alt="Shirley-pic" height="300" style="border-radius:50px;" src="https://octodex.github.com/images/femalecodertocat.png">
 </div>
   
   <div style="display: inline_block"><br>
@@ -27,8 +27,8 @@
   ##
   
   <div> 
-  <a href="https://www.instagram.com/shirleybrito.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/shirley-brito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/shirleybrito.dev/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/shirley-brito/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
 
