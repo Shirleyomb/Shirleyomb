@@ -10,7 +10,9 @@
 - 🧪 Transformando aprendizados em experimentos e projetos reais
 
 <div align="center">
-  <a href="https://www.arstechcompany.com.br/" target="blank"><img align="center" alt="Shirley-pic" height="300" style="border-radius:50px;" src="https://octodex.github.com/images/femalecodertocat.png">
+  <a href="https://www.arstechcompany.com.br/" target="_blank" rel="noopener noreferrer">
+    <img align="center" alt="Shirley-pic" height="300" style="border-radius:50px;" src="https://octodex.github.com/images/femalecodertocat.png">
+  </a>
 </div>
   
   <div style="display: inline_block"><br>
